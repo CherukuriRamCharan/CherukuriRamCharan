@@ -173,7 +173,7 @@ Transforming movie ideas into production-ready assets using Generative AI.
 
 ### 🔗 Links
 
-[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/CherukuriRamCharan/Scriptoria)
 
 <br clear="right"/>
 
@@ -208,7 +208,7 @@ Machine Learning platform that predicts possible diseases based on user symptoms
 
 ### 🔗 Links
 
-[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/CherukuriRamCharan/MediPredict)
 
 <br clear="right"/>
 
@@ -243,42 +243,7 @@ A responsive finance management dashboard with analytics and visualization.
 
 ### 🔗 Links
 
-[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
-
-<br clear="right"/>
-
----
-
-## 📚 Study Mentor AI
-### *AI-Powered Student Productivity Assistant*
-
-<img align="right" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-
-Helping students organize learning plans and stay consistent.
-
-### ✨ Key Features
-
-- 📅 Smart Study Scheduling
-- 🎯 Goal Tracking
-- ⏰ Progress Monitoring
-- 📖 Personalized Recommendations
-- 📊 Productivity Analytics
-
-### 🛠 Tech Stack
-
-`Python` `AI` `Automation`
-
-### 🎯 Impact
-
-✔ Better study discipline
-
-✔ Structured learning plans
-
-✔ Increased productivity
-
-### 🔗 Links
-
-[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/CherukuriRamCharan/finance-dashboard)
 
 <br clear="right"/>
 
@@ -312,7 +277,7 @@ A visually rich web experience celebrating India's culture and history.
 
 ### 🔗 Links
 
-[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/CherukuriRamCharan/Love-India)
 
 <br clear="right"/>
 
@@ -405,7 +370,7 @@ while(alive)
 
 <div align="center">
 
-<a href="www.linkedin.com/in/ram-charan-cherukuri">
+<a href="https://www.linkedin.com/in/ram-charan-cherukuri/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
