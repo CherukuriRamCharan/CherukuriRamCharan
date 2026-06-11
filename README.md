@@ -405,11 +405,11 @@ while(alive)
 
 <div align="center">
 
-<a href="https://linkedin.com/in/cherukuriramcharan">
+<a href="www.linkedin.com/in/ram-charan-cherukuri">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:cherukuriramcharan@gmail.com">
+<a href="mailto:cherukuriramcharan078@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
