@@ -1,120 +1,421 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cherukuri%20Ram%20Charan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:06B6D4&text=CHERUKURI%20RAM%20CHARAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Network%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;ML+%7C+NLP+%7C+Full-Stack+Dev;Open+to+Collaborations+%F0%9F%A4%9D;Learning+%E2%86%92+Building+%E2%86%92+Shipping)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/CherukuriRamCharan?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b)](https://github.com/CherukuriRamCharan)
-[![Profile views](https://komarev.com/ghpvc/?username=CherukuriRamCharan&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=Profile+Views)](https://github.com/CherukuriRamCharan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe+🚀;Machine+Learning+%26+NLP+Explorer+🤖;Future+Network+Engineer+🌐;Full+Stack+Developer+💻;Cisco+Ideathon+2026+Candidate+⚡;Building+Solutions+That+Matter+🔥)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 About Me
+# ⚡ Developer Command Center
 
-```python
-class RamCharan:
-    def __init__(self):
-        self.name       = "Cherukuri Ram Charan"
-        self.college    = "PVPSIT — B.Tech CSE"
-        self.location   = "Andhra Pradesh, India 🇮🇳"
-        self.interests  = ["Machine Learning", "NLP", "Full-Stack Dev", "DSA"]
-        self.currently  = "Building ML projects & sharpening DSA on NeetCode"
-        self.fun_fact   = "I debug with print statements and I'm not ashamed 😄"
+```yaml
+Name        : Cherukuri Ram Charan
+Role        : AI Engineer in Progress
+Education   : B.Tech CSE @ PVPSIT
+Location    : Andhra Pradesh, India
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together.")
+Mission:
+  Build intelligent systems,
+  master networking technologies,
+  and solve real-world problems.
 
-me = RamCharan()
-me.say_hi()
+Current Focus:
+  - Cisco Ideathon Preparation
+  - Machine Learning
+  - NLP & LLMs
+  - Data Structures & Algorithms
+  - Full Stack Development
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💭 Developer Philosophy
+
+> “The best way to predict the future is to build it.”
+
+> “Every bug is a lesson. Every project is an opportunity.”
+
+> “Consistency compounds faster than motivation.”
+
+---
+
+## 🎯 Current Objectives
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 2026 Goals
+
+- Crack Cisco Ideathon
+- 500+ DSA Problems
+- Build AI Products
+- Master Networking
+- Land Software Internship
+
+</td>
+
+<td width="50%">
+
+### 🔥 Current Status
+
+Cisco Ideathon
+
+████████░░ 80%
+
+DSA
+
+███████░░░ 70%
+
+Machine Learning
+
+████████░░ 80%
+
+Full Stack
+
+███████░░░ 75%
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Arsenal
 
 <div align="center">
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,mysql&theme=dark"/>
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express&theme=dark"/>
 
-**Tools**
+### AI & Data Science
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🌌 What I'm Working On
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB4Nmx6bGRiZXA5Y3N6N3RocDhlN2Y3aWhzYzVnY2s5bXdzcG1zZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+### 🤖 AI & ML
+
+- Intelligent Prediction Systems
+- NLP Applications
+- LLM Experiments
+
+### 🌐 Networking
+
+- Cisco Concepts
+- Routing & Switching
+- Network Troubleshooting
+
+### 💻 Development
+
+- React Applications
+- Full Stack Projects
+- UI/UX Design
+
+<br clear="right"/>
+
+---
+
+# 🚀 Flagship Projects
 
 <div align="center">
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏥 [**MediPredict**](https://github.com/CherukuriRamCharan/MediPredict) | ML-powered disease prediction system | Python, Jupyter, Scikit-Learn |
-| 💬 [**NLP Sentiment Analysis**](https://github.com/CherukuriRamCharan/nlp-sentiment-project) | Sentiment classification using NLP techniques | Python, NLP |
-| 💰 [**Finance Dashboard**](https://github.com/CherukuriRamCharan/finance-dashboard) | Interactive personal finance tracker with role-based access & dark mode | React, Vite, Tailwind |
-| 🎓 [**Study Mentor App**](https://github.com/CherukuriRamCharan/study-mentor-app) | AI-assisted study planning tool | Python |
-| 🇮🇳 [**Love India**](https://github.com/CherukuriRamCharan/Love-India) | A tribute to India | HTML |
-| 💡 [**NeetCode Submissions**](https://github.com/CherukuriRamCharan/neetcode-submissions) | DSA problem solutions from NeetCode.io | C++ |
+### ⚡ Building Solutions That Create Impact
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎬 CineForge AI
+### *Generative AI-Powered Film Pre-Production Platform*
+
+<img align="right" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+Transforming movie ideas into production-ready assets using Generative AI.
+
+### ✨ Key Features
+
+- 🎭 AI Screenplay Generation
+- 👤 Character Creation & Development
+- 🎨 Scene Visualization Planning
+- 🔊 Sound Design Recommendations
+- 📋 Automated Production Planning
+- 📄 Export & Collaboration Support
+
+### 🛠 Tech Stack
+
+`Python` `LLMs` `NLP` `React` `Generative AI`
+
+### 🎯 Impact
+
+✔ Reduces pre-production effort
+
+✔ Accelerates creative workflows
+
+✔ Assists independent filmmakers
+
+### 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+<br clear="right"/>
+
+---
+
+## 🏥 MediPredict
+### *AI-Driven Disease Prediction System*
+
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+Machine Learning platform that predicts possible diseases based on user symptoms.
+
+### ✨ Key Features
+
+- 🧠 Intelligent Symptom Analysis
+- 📊 Predictive Classification Models
+- 📈 Accuracy Evaluation Dashboard
+- 🔍 Disease Recommendation Engine
+- ⚕ Medical Data Insights
+
+### 🛠 Tech Stack
+
+`Python` `Scikit-Learn` `Pandas` `NumPy` `Jupyter`
+
+### 🎯 Impact
+
+✔ Faster preliminary health assessment
+
+✔ Demonstrates practical ML implementation
+
+✔ Data-driven healthcare assistance
+
+### 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+<br clear="right"/>
+
+---
+
+## 💹 Finance Dashboard
+### *Modern Financial Analytics Platform*
+
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+A responsive finance management dashboard with analytics and visualization.
+
+### ✨ Key Features
+
+- 📊 Interactive Charts
+- 💰 Expense Tracking
+- 🌙 Dark Mode Interface
+- 👥 Role-Based Access Control
+- 📈 Spending Insights & Reports
+
+### 🛠 Tech Stack
+
+`React` `Vite` `Tailwind CSS` `JavaScript`
+
+### 🎯 Impact
+
+✔ Improved financial visibility
+
+✔ Responsive UI experience
+
+✔ Real-time analytics
+
+### 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+<br clear="right"/>
+
+---
+
+## 📚 Study Mentor AI
+### *AI-Powered Student Productivity Assistant*
+
+<img align="right" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+
+Helping students organize learning plans and stay consistent.
+
+### ✨ Key Features
+
+- 📅 Smart Study Scheduling
+- 🎯 Goal Tracking
+- ⏰ Progress Monitoring
+- 📖 Personalized Recommendations
+- 📊 Productivity Analytics
+
+### 🛠 Tech Stack
+
+`Python` `AI` `Automation`
+
+### 🎯 Impact
+
+✔ Better study discipline
+
+✔ Structured learning plans
+
+✔ Increased productivity
+
+### 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+<br clear="right"/>
+
+---
+
+## 🇮🇳 Love India
+### *Interactive Tribute to Indian Heritage*
+
+<img align="right" width="350" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
+
+A visually rich web experience celebrating India's culture and history.
+
+### ✨ Key Features
+
+- 🌏 Interactive Design
+- 🎨 Responsive Interface
+- 🇮🇳 Cultural Showcase
+- 📱 Mobile-Friendly Experience
+
+### 🛠 Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+### 🎯 Impact
+
+✔ Showcases front-end skills
+
+✔ Promotes cultural appreciation
+
+✔ Responsive web design
+
+### 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+<br clear="right"/>
+
+---
+
+## 🧩 NeetCode Journey
+### *My DSA Growth Repository*
+
+```text
+Arrays        ██████████ 100%
+Linked Lists  █████████░ 90%
+Trees         ████████░░ 80%
+Graphs        ███████░░░ 70%
+DP            ██████░░░░ 60%
+```
+
+### 📈 Stats
+
+- 💯 Consistent Problem Solving
+- 🧠 Pattern Recognition
+- ⚡ Interview Preparation
+- 📚 Well-Documented Solutions
+
+### 🛠 Tech Stack
+
+`C++` `DSA` `Algorithms`
+
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CherukuriRamCharan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=7c3aed" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherukuriRamCharan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CherukuriRamCharan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CherukuriRamCharan&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CherukuriRamCharan&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-</div>
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CherukuriRamCharan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CherukuriRamCharan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 📊 Activity Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ram-charan-cherukuri)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherukuriramcharan078@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CherukuriRamCharan)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CherukuriRamCharan&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🧠 Daily Learning Cycle
+
+```text
+Wake Up
+   ↓
+Learn Something New
+   ↓
+Build Projects
+   ↓
+Solve DSA
+   ↓
+Improve Skills
+   ↓
+Repeat
+```
+
+---
+
+# 🏆 Achievement Mindset
+
+```cpp
+while(alive)
+{
+    learn();
+    build();
+    fail();
+    improve();
+    repeat();
+}
+```
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/cherukuriramcharan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:cherukuriramcharan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CherukuriRamCharan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -122,8 +423,8 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+### ⚡ "Dream. Build. Learn. Repeat."
 
-*"The best way to predict the future is to build it." — Alan Kay*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4F46E5,50:7C3AED,100:06B6D4"/>
 
 </div>
